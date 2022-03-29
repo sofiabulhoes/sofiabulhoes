@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working @ Compass.uol
-- 🌱 I’m currently learning Pyhton for Data Enginnering and improving skills in Cloud Computing.
+- 🌱 I’m currently learning Phyton for Data Enginnering and improving skills in Cloud Computing.
 - 📫 How to reach me: sofiabulhoes@hotmail.com
 - ⚡ Fun fact: I love coffee, cats and beer 
 
